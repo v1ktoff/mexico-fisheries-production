@@ -1,6 +1,6 @@
 # Análisis Multivariado de la Producción Pesquera en México (2005-2018)
 
-Este repositorio contiene el análisis estadístico multivariante realizado sobre los datos de la producción pesquera en México entre los años 2005 y 2018. El objetivo de este proyecto es aplicar técnicas avanzadas de análisis de datos para extraer información relevante y patrones en la producción pesquera, utilizando técnicas de Regresión Lineal Múltiple (RLM), Análisis de Componentes Principales (PCA), Clustering y Visualización Multivariante.
+Este repositorio corresponde al reabajo final de mi curso de estadistica multivariada, contiene el análisis estadístico multivariante realizado sobre los datos de la producción pesquera en México entre los años 2005 y 2018. El objetivo de este proyecto es aplicar técnicas avanzadas de análisis de datos para extraer información relevante y patrones en la producción pesquera, utilizando técnicas de Regresión Lineal Múltiple (RLM), Análisis de Componentes Principales (PCA), Clustering y Visualización Multivariante.
 
 ## Descripción
 
